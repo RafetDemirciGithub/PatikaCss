@@ -1,0 +1,19 @@
+main {
+  text-align: center;
+}
+
+main h2 {
+  color: #9c129c;
+  margin: 30px auto;
+}
+
+main li {
+  list-style-position: inside;
+}
+
+main .box {
+  text-align: left;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}

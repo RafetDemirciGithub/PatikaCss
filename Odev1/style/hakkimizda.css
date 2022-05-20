@@ -1,0 +1,21 @@
+main {
+  width: 90%;
+  margin: 0 auto;
+}
+
+main h1 {
+  text-align: center;
+  color: #a803a8;
+  margin: 20px 0;
+}
+
+main p {
+  letter-spacing: 1px;
+  line-height: 1.6;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+footer {
+  margin-top: 100px;
+  text-align: center;
+}

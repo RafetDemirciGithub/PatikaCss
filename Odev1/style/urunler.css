@@ -1,0 +1,21 @@
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.image-show {
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: 20px;
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.image-show img {
+    border-radius: 50%;
+    border: 1px dashed #c2c2c2;
+}
+
+

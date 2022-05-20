@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  text-align: center;
+  color: crimson;
+}
+
+nav {
+  text-align: center;
+  margin: 20px auto 30px;
+}
+
+nav span {
+  margin: 0 30px;
+}
