@@ -1,1 +1,1 @@
-Patika.dev Css ödev reposu
+# Patika.dev Css ödev reposu
